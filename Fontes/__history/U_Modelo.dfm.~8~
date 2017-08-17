@@ -1,0 +1,93 @@
+object F_Modelo: TF_Modelo
+  Left = 0
+  Top = 0
+  Caption = 'Modelo'
+  ClientHeight = 464
+  ClientWidth = 584
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poDesktopCenter
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 584
+    Height = 41
+    Align = alTop
+    TabOrder = 0
+    object SpeedButton1: TSpeedButton
+      Left = 8
+      Top = 8
+      Width = 23
+      Height = 22
+      Hint = 'Inserir Novo Registro'
+      Flat = True
+      ParentShowHint = False
+      ShowHint = True
+    end
+    object SpeedButton2: TSpeedButton
+      Left = 37
+      Top = 8
+      Width = 23
+      Height = 22
+      Hint = 'Salvar Registro Atual'
+      Flat = True
+      ParentShowHint = False
+      ShowHint = True
+    end
+    object SpeedButton3: TSpeedButton
+      Left = 66
+      Top = 8
+      Width = 23
+      Height = 22
+      Hint = 'Cancelar Opera'#231#227'o'
+      Flat = True
+      ParentShowHint = False
+      ShowHint = True
+    end
+    object SpeedButton4: TSpeedButton
+      Left = 95
+      Top = 8
+      Width = 23
+      Height = 22
+      Hint = 'Excluir Registro Atual'
+      Flat = True
+      ParentShowHint = False
+      ShowHint = True
+    end
+    object SpeedButton5: TSpeedButton
+      Left = 124
+      Top = 8
+      Width = 23
+      Height = 22
+      Hint = 'Editar Registro'
+      Flat = True
+      ParentShowHint = False
+      ShowHint = True
+    end
+  end
+  object StatusBar1: TStatusBar
+    Left = 0
+    Top = 445
+    Width = 584
+    Height = 19
+    Panels = <
+      item
+        Width = 200
+      end
+      item
+        Alignment = taCenter
+        Text = 'Projeto Uespar 1.0'
+        Width = 50
+      end>
+    ExplicitLeft = 336
+    ExplicitTop = 384
+    ExplicitWidth = 0
+  end
+end

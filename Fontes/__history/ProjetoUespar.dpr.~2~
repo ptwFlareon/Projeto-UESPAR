@@ -1,0 +1,16 @@
+program ProjetoUespar;
+
+uses
+  Forms,
+  U_Modelo in 'U_Modelo.pas' {F_Modelo},
+  U_Estado in 'U_Estado.pas' {F_Modelo1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TF_Modelo, F_Modelo);
+  Application.CreateForm(TF_Modelo1, F_Modelo1);
+  Application.Run;
+end.
