@@ -15,24 +15,9 @@ object F_Principal: TF_Principal
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
-  object Label1: TLabel
-    Left = 344
-    Top = 280
-    Width = 31
-    Height = 13
-    Caption = 'Label1'
-  end
-  object Edit1: TEdit
-    Left = 184
-    Top = 112
-    Width = 121
-    Height = 21
-    TabOrder = 0
-    Text = 'Edit1'
-  end
   object MainMenu1: TMainMenu
-    Left = 408
-    Top = 256
+    Left = 344
+    Top = 264
     object Cadastros1: TMenuItem
       Caption = 'Cadastros'
       object Estado1: TMenuItem

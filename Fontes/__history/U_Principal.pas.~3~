@@ -14,7 +14,6 @@ type
     Cidade1: TMenuItem;
     Cliente1: TMenuItem;
     Label1: TLabel;
-    Edit1: TEdit;
     procedure Estado1Click(Sender: TObject);
     procedure Cidade1Click(Sender: TObject);
     procedure Cliente1Click(Sender: TObject);

@@ -22,14 +22,6 @@ object F_Principal: TF_Principal
     Height = 13
     Caption = 'Label1'
   end
-  object Edit1: TEdit
-    Left = 184
-    Top = 112
-    Width = 121
-    Height = 21
-    TabOrder = 0
-    Text = 'Edit1'
-  end
   object MainMenu1: TMainMenu
     Left = 408
     Top = 256

@@ -8,6 +8,6 @@ inherited F_Cidade: TF_Cidade
     ExplicitWidth = 584
   end
   inherited TabControl1: TTabControl
-    ExplicitTop = 47
+    ExplicitTop = 41
   end
 end

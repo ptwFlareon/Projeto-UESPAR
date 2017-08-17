@@ -4,7 +4,7 @@ interface
 
 uses
   Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
-  Dialogs, Menus, Vcl.StdCtrls;
+  Dialogs, Menus;
 
 type
   TF_Principal = class(TForm)
@@ -13,8 +13,6 @@ type
     Estado1: TMenuItem;
     Cidade1: TMenuItem;
     Cliente1: TMenuItem;
-    Label1: TLabel;
-    Edit1: TEdit;
     procedure Estado1Click(Sender: TObject);
     procedure Cidade1Click(Sender: TObject);
     procedure Cliente1Click(Sender: TObject);
