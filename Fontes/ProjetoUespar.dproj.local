@@ -1,2 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject/>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/08/17 21:17:26.000.797,=C:\Documentos\ProjetoUespar\Fontes\Unit1.pas</Transaction>
+    <Transaction>2017/08/17 21:19:26.000.326,C:\Documentos\ProjetoUespar\Fontes\Unit1.dfm=C:\Documentos\ProjetoUespar\Fontes\U_Produto.dfm</Transaction>
+    <Transaction>2017/08/17 21:19:26.000.326,C:\Documentos\ProjetoUespar\Fontes\Unit1.pas=C:\Documentos\ProjetoUespar\Fontes\U_Produto.pas</Transaction>
+    <Transaction>2017/08/17 21:22:41.000.494,C:\Documentos\ProjetoUespar\Fontes\ProjetoUespar.dproj=C:\Documentos\ProjetoUespar\Fontes\ProjetoUespar.dproj</Transaction>
+    <Transaction>2017/08/17 21:24:56.000.352,=C:\Documentos\ProjetoUespar\Fontes\Unit1.pas</Transaction>
+    <Transaction>2017/08/17 21:25:15.000.908,C:\Documentos\ProjetoUespar\Fontes\Unit1.dfm=C:\Documentos\ProjetoUespar\Fontes\U_Venda.dfm</Transaction>
+    <Transaction>2017/08/17 21:25:15.000.908,C:\Documentos\ProjetoUespar\Fontes\Unit1.pas=C:\Documentos\ProjetoUespar\Fontes\U_Venda.pas</Transaction>
+    <Transaction>2017/08/17 21:26:21.000.147,=C:\Documentos\ProjetoUespar\Fontes\Unit1.pas</Transaction>
+    <Transaction>2017/08/17 21:27:03.000.274,C:\Documentos\ProjetoUespar\Fontes\Unit1.dfm=C:\Documentos\ProjetoUespar\Fontes\U_Entrada.dfm</Transaction>
+    <Transaction>2017/08/17 21:27:03.000.274,C:\Documentos\ProjetoUespar\Fontes\Unit1.pas=C:\Documentos\ProjetoUespar\Fontes\U_Entrada.pas</Transaction>
+  </Transactions>
+</BorlandProject>

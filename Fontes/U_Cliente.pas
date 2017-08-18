@@ -4,7 +4,7 @@ interface
 
 uses
   Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
-  Dialogs, U_Modelo, ComCtrls, Buttons, ExtCtrls;
+  Dialogs, U_Modelo, ComCtrls, Buttons, ExtCtrls, Vcl.StdCtrls;
 
 type
   TF_Cliente = class(TF_Modelo)

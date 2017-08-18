@@ -1,10 +1,13 @@
 inherited F_Cliente: TF_Cliente
-  Caption = 'Cliente'
+  Caption = 'Cadastro de Cliente'
   PixelsPerInch = 96
   TextHeight = 13
-  inherited StatusBar1: TStatusBar
-    ExplicitLeft = 0
-    ExplicitTop = 445
-    ExplicitWidth = 584
+  inherited PageControl1: TPageControl
+    inherited TabSheet1: TTabSheet
+      ExplicitLeft = 0
+      ExplicitTop = 0
+      ExplicitWidth = 0
+      ExplicitHeight = 0
+    end
   end
 end

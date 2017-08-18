@@ -1,0 +1,8 @@
+inherited F_Venda: TF_Venda
+  Caption = 'Venda'
+  PixelsPerInch = 96
+  TextHeight = 13
+  inherited TabControl1: TTabControl
+    ExplicitTop = 41
+  end
+end
