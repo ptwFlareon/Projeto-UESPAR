@@ -163,4 +163,8 @@ inherited F_Estado: TF_Estado
       Size = 2
     end
   end
+  object FDQuery2: TFDQuery
+    Left = 408
+    Top = 336
+  end
 end

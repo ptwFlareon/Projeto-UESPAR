@@ -3,7 +3,6 @@ inherited F_Cidade: TF_Cidade
   PixelsPerInch = 96
   TextHeight = 13
   inherited PageControl1: TPageControl
-    ActivePage = TabSheet1
     inherited TabSheet1: TTabSheet
       ExplicitLeft = 8
       ExplicitTop = 22

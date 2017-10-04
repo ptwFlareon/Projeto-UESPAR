@@ -26,6 +26,7 @@ type
     FDQuery1NOME_ESTADO: TStringField;
     FDQuery1SIGLA_ESTADO: TStringField;
     Label1: TLabel;
+    FDQuery2: TFDQuery;
     procedure SBNovoClick(Sender: TObject);
     procedure SBSalvarClick(Sender: TObject);
     procedure SBCancelarClick(Sender: TObject);
