@@ -21,7 +21,6 @@ object F_Modelo: TF_Modelo
     Height = 41
     Align = alTop
     TabOrder = 0
-    ExplicitTop = -15
     object SBNovo: TSpeedButton
       Left = 8
       Top = 8

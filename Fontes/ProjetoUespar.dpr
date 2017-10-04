@@ -11,7 +11,8 @@ uses
   U_Venda in 'U_Venda.pas' {F_Venda},
   Vcl.Themes,
   Vcl.Styles,
-  U_Entrada in 'U_Entrada.pas' {F_Entrada};
+  U_Entrada in 'U_Entrada.pas' {F_Entrada},
+  UDM in 'UDM.pas' {DM: TDataModule};
 
 {$R *.res}
 
@@ -27,6 +28,7 @@ begin
   Application.CreateForm(TF_Produto, F_Produto);
   Application.CreateForm(TF_Venda, F_Venda);
   Application.CreateForm(TF_Entrada, F_Entrada);
+  Application.CreateForm(TDM, DM);
   Application.Run;
 
 end.

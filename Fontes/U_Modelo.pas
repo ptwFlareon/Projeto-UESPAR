@@ -39,6 +39,8 @@ implementation
 
 {$R *.dfm}
 
+uses U_Estado;
+
 procedure TF_Modelo.SBCancelarClick(Sender: TObject);
 begin
   SBNovo.Enabled := true;

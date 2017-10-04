@@ -4,10 +4,16 @@ inherited F_Cliente: TF_Cliente
   TextHeight = 13
   inherited PageControl1: TPageControl
     inherited TabSheet1: TTabSheet
-      ExplicitLeft = 0
-      ExplicitTop = 0
-      ExplicitWidth = 0
-      ExplicitHeight = 0
+      ExplicitLeft = 4
+      ExplicitTop = 24
+      ExplicitWidth = 576
+      ExplicitHeight = 376
+    end
+    inherited TabSheet2: TTabSheet
+      ExplicitLeft = 4
+      ExplicitTop = 24
+      ExplicitWidth = 576
+      ExplicitHeight = 376
     end
   end
 end

@@ -7914,13 +7914,12 @@ object F_Principal: TF_Principal
       B6A87391354B01B622458A1429B272D9E2DEB4459D8BAC59FE3FFE67F8E434E0
       133E0000000049454E44AE426082}
     Stretch = True
-    ExplicitLeft = -368
-    ExplicitTop = -288
-    ExplicitWidth = 755
+    ExplicitLeft = 8
+    ExplicitTop = -96
   end
   object MainMenu1: TMainMenu
-    Left = 24
-    Top = 16
+    Left = 240
+    Top = 168
     object Cadastros1: TMenuItem
       Caption = '&Cadastros'
       object Estado1: TMenuItem
